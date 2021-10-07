@@ -4,5 +4,5 @@
 #
 #    pip-compile
 #
-tkinter==8.6            # via matplotlib
+tkinter
 pulp==2.5
