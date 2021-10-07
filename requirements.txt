@@ -4,5 +4,4 @@
 #
 #    pip-compile
 #
-tkinter==8.2
 pulp==2.5
